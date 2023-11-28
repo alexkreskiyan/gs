@@ -1,0 +1,9 @@
+# editors
+/.idea/
+
+# build
+/bin/
+/obj/
+
+# packages
+/*.nupkg
